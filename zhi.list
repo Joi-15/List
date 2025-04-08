@@ -1,0 +1,6 @@
+#zhi
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,mail.me.com
+IP-CIDR,66.94.0.0/19,no-resolve
+IP-CIDR,206.29.177.36/32,no-resolve
+IP-CIDR,208.54.0.0/16,no-resolve
