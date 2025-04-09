@@ -2,7 +2,7 @@
 IP-CIDR,66.94.0.0/19,no-resolve
 IP-CIDR,206.29.177.36/32,no-resolve
 IP-CIDR,208.54.0.0/16,no-resolve
-IP-CIDR,118.112.64.77/32,no-resolve
+DOMAIN-SUFFIX,zhaoyuzhe.top
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
